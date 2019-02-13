@@ -26,7 +26,7 @@
         <dbpedia.spotlight.version>1.0</dbpedia.spotlight.version>
 
         <java.compiler.version>1.8</java.compiler.version>
-        <scala.compiler.version>2.10.4</scala.compiler.version>
+        <scala.compiler.version>2.10.7</scala.compiler.version>
         <jersey.version>1.19.3</jersey.version>
 
         <heapspace.Xmx.compiler>-Xmx1g</heapspace.Xmx.compiler>
@@ -54,7 +54,7 @@
                 <plugin>
                     <groupId>net.alchim31.maven</groupId>
                     <artifactId>scala-maven-plugin</artifactId>
-                    <version>3.1.5</version>
+                    <version>3.4.6</version>
                     <!--
                         License: LGPL, Version 2.1
                     -->
